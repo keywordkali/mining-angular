@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mining-angular';
+   mining: string[] = [
+    "My mining goals are to use code to find rare mineral deposits across the world."
+   ];
+   
 }
